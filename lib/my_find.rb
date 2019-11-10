@@ -1,8 +1,8 @@
 require 'pry'
 
-def my_find(stars,)
+def my_find("stars")
  i = 0
-  while i < collection.length
+  while i < stars.length
     i = i + 1
   end
 end
